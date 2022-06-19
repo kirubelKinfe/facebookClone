@@ -1,0 +1,33 @@
+.right-sidebar {
+  height: 100%;
+  width: 303.5px;
+  top: 56px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 30px;
+}
+
+.right-sidebar h1 {
+  color: rgb(101, 103, 107);
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.create-new-group {
+  font-size: 15px;
+  font-weight: 500;
+  color: rgb(5, 5, 5);
+  display: flex;
+  align-items: center;
+}
+
+.create {
+  background-color: rgb(235, 233, 233);
+  padding: 8px;
+  margin-right: 8px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
